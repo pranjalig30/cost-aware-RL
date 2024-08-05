@@ -12,8 +12,6 @@ This project conceptualizes a cost-aware A/B testing scenario as a reinforcement
 - [Simulation Environment](#simulation-environment)
 - [Results and Conclusion](#results-and-conclusion)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 Background
