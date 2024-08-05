@@ -85,14 +85,3 @@ The Epsilon Greedy with Bonferroni correction method stands out for balancing ex
     ```sh
     pip install -r requirements.txt
     ```
-
-## Usage
-
-1. Run the Jupyter Notebook:
-    ```sh
-    jupyter notebook
-    ```
-2. Open `Assignment 2 - Cost-Aware AB Testing.ipynb` and run the cells to see the simulation results and analyses.
----
-
-Feel free to customize any sections to better fit your project details or personal preferences.
